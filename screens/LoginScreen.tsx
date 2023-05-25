@@ -35,7 +35,7 @@ export default function LoginScreen() {
     <KeyboardAvoidingView behavior={Platform.OS === 'ios' ? 'padding' : 'height'}
       className='flex-1 items-center justify-center p-10 bg-white'>
       <Image source={{
-        uri: "https://blog.mozilla.org/internetcitizen/files/2018/08/signal-logo.png"
+        uri: "https://upload.wikimedia.org/wikipedia/commons/8/8d/Signal-Logo.svg"
       }} style={{
         width: 200,
         height: 200,
